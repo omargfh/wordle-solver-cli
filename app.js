@@ -189,11 +189,6 @@ const get_regex = (obj) => {
         return res
     })
 
-// const rl = readline.createInterface({
-//     input: process.stdin,
-//     output: process.stdout
-// })
-
 const run_guesser = () => {
 
     let first = []
